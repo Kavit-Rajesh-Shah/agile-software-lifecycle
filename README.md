@@ -8,10 +8,9 @@ I have tried to list all the necessary information which can help individual to 
 
 3. After CKAD, we should go for Cloud Platform - Public Cloud (AWS, Azure, GCP) or Private Cloud (Openstack/Openshift). This helps individual understand the neccesary building blocks in a software from Infrastructure perspective.
 
-4. During this stage - there should be two paths - Development or Devops. Lets say, you are a Java Developer and wants to continue to be a Developer/Architect - I would recommend going for one Certification for Programming language like Spring Professional, Azure Developer, Node or respective langauge's certification. Along with that go for Build Tool Certification like Jenkins.
-I consider this to be last stage because this is something which you will continue for 2-4 years.
+4. During this stage - there should be two paths - Development or Devops. Lets say, you are a Java Developer and wants to continue to be a Developer/Architect - I would recommend going for Spring Professional Certification, in case of .NET then it should be Azure Developer. Each language will have its respective certification program, so go for it. Certification will not make you expert but atleast will make you intermediate in that langauge. Along with that go for build tool certification like Jenkins Certified Engineer. Doing the certification after point 1- 3 will give you fair bit of understanding of Infrastructure and Deployment. Hence you can think of end to end solution during development.
 
-5. If you don't like doing development then going for Devops/Infra would like require kmowledge of Automation tools like Terraform/Ansible along with Build tool like Jenkins.
+5. If you don't like doing development then going for Devops/Infra would like require knowledge of automation tools like Terraform/Ansible along with build tool like Jenkins.
 
 There are some additonal courses/certifications like Certified Scrum Master - this teaches basic of scrum and agile methodology.
 
